@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Datos sensibles
+.env
+afip_keys/
+
+# Archivos generados de output (no comitear datos)
+data/output/
+
+# macOS
+.DS_Store
+
+# uv
+uv.lock

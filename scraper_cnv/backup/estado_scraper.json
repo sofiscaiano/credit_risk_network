@@ -1,0 +1,88 @@
+{
+  "fecha_inicio": "2026-04-16T22:05:53.649748",
+  "modo_ejecucion": "COMPLETO",
+  "total_sociedades": 173,
+  "sociedades_procesadas": 176,
+  "sociedades_pendientes": 0,
+  "ultimo_cuit_procesado": "33712110959",
+  "ultimo_indice": 172,
+  "total_calificaciones_encontradas": 9505,
+  "total_pdfs_descargados": 2648,
+  "total_errores": 12,
+  "csv_ruta": "/Users/sofiascaiano/Documents/maestria/TT1/scraper_cnv/calificaciones.csv",
+  "completado": true,
+  "errores_detalle": [
+    {
+      "cuit": "30629827060",
+      "fecha": "9/9/2025",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-16T22:36:10.279825"
+    },
+    {
+      "cuit": "30629827060",
+      "fecha": "8/4/2022",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-16T22:39:38.166984"
+    },
+    {
+      "cuit": "33650305499",
+      "fecha": "18/8/2025",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-16T22:44:47.354809"
+    },
+    {
+      "cuit": "30692239292",
+      "fecha": "14/9/2022",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-16T22:57:45.316283"
+    },
+    {
+      "cuit": "30692239292",
+      "fecha": "29/7/2022",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-16T22:58:30.945437"
+    },
+    {
+      "cuit": "30703088534",
+      "fecha": "11/11/2022",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-16T23:57:27.584286"
+    },
+    {
+      "cuit": "30715118773",
+      "fecha": "29/6/2022",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-17T00:06:20.958731"
+    },
+    {
+      "cuit": "30526552659",
+      "fecha": "29/6/2022",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-17T00:24:22.987463"
+    },
+    {
+      "cuit": "30593174057",
+      "fecha": "5/10/2022",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-17T00:49:47.832388"
+    },
+    {
+      "cuit": "30511190238",
+      "fecha": "9/8/2022",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-17T00:56:08.596122"
+    },
+    {
+      "cuit": "30669159885",
+      "fecha": "15/7/2022",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-17T00:58:18.490416"
+    },
+    {
+      "cuit": "30505000869",
+      "fecha": "11/7/2023",
+      "error": "No se pudo descargar PDF después de 3 intentos: Timeout: Page.wait_for_selector: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\".downloadFile\") to be visible\n",
+      "timestamp": "2026-04-17T01:02:57.646131"
+    }
+  ]
+}

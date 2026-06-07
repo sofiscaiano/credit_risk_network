@@ -1,0 +1,3092 @@
+[
+  {
+    "cuit": "30711204055",
+    "razon_social": "360 ENERGY SOLAR S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715828304",
+    "razon_social": "Abierto Pymes Veta FCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709377295",
+    "razon_social": "Acindar Pymes SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30501199253",
+    "razon_social": "Acindar Pymes SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716835789",
+    "razon_social": "Adblick Ganadería FCICA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714960411",
+    "razon_social": "ADBLICK GANADERÍA FONDO COMÚN DE INVERSIÓN CERRADO AGROPECUARIO",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716533189",
+    "razon_social": "Adblick Granos",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30711969523",
+    "razon_social": "ADBLICK GRANOS FCICA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716533184",
+    "razon_social": "ADBLICK GRANOS FCICA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710198388",
+    "razon_social": "ADCAP ASSET MANAGEMENT SOC. GTE FCI S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30618705672",
+    "razon_social": "Adeco Agropecuaria S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30696170580",
+    "razon_social": "Aeropuertos Argentina 2000 S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30663461113",
+    "razon_social": "AES ARGENTINA GENERACIÓN  S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709399426",
+    "razon_social": "Affidavit S.G.R.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709187941",
+    "razon_social": "Afianzadora Latinoamericana Cía de Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30705458835",
+    "razon_social": "Afianzar SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715451235",
+    "razon_social": "AGRALITY S.A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30708255102",
+    "razon_social": "Agroaval SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30658531332",
+    "razon_social": "Agroempresa Colón S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30592724541",
+    "razon_social": "Agrofina S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33500057039",
+    "razon_social": "Alba Compañía Argentina de Seguros S.A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712255095",
+    "razon_social": "ALBANESI ENERGÍA S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30682504125",
+    "razon_social": "Albanesi S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30714587451",
+    "razon_social": "Alfa Pyme SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712443487",
+    "razon_social": "ALIANZA SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "3071551740 6",
+    "razon_social": "ALLARIA ARGENCONS DISTRITO QUARTIER  PR LEY 27260",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715517406",
+    "razon_social": "Allaria Argencons DQ",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715972057",
+    "razon_social": "Allaria Ledesma Fondos Administrados",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710456808",
+    "razon_social": "ALLARIA LEDESMA FONDOS ADMINISTRADOS SGFCI S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715498495",
+    "razon_social": "Allaria Residencial Casas ARG I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30680790805",
+    "razon_social": "Allaria SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500037217",
+    "razon_social": "Allianz Argentina Cia de Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30522780606",
+    "razon_social": "Aluar Aluminio Argentino",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709878103",
+    "razon_social": "ALZ Semillas SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30708844620",
+    "razon_social": "Americana de Avales",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718603559",
+    "razon_social": "Amfays Asociacion Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717501760",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33716992379",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717132285",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717228231",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717376826",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717654680",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717781194",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717958841",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718530357",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718651308",
+    "razon_social": "AMFAyS Asociación Mutual",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500235566",
+    "razon_social": "Angel Estrada y Cia.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30502793175",
+    "razon_social": "ARCOR SAIC",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30711596603",
+    "razon_social": "Argenfunds S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707265414",
+    "razon_social": "Argenfunds SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33714924139",
+    "razon_social": "Argenpymes S.G.R",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718083903",
+    "razon_social": "Argentina Ciudad SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500064478",
+    "razon_social": "Aseguradora de Créditos y Garantías S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500057039",
+    "razon_social": "Aseguradora de Créditos y Garantías S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33500009999",
+    "razon_social": "Asociación Bancaria S.E.B.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710135106",
+    "razon_social": "Asociación Civil Avanzar para el Desarrollo Humano",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707803408",
+    "razon_social": "ASOCIACIÓN CIVIL AVANZAR POR EL DESARROLLO HUMANO",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30674406904",
+    "razon_social": "ASOCIACIÓN CIVIL PARA EL DESARROLLO REGIONAL (APDR) CERES",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709558850",
+    "razon_social": "Asociación Civil para el Desarrollo y la Innovación Competitiva Agencia Rafaela (ACDICAR)",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716684594",
+    "razon_social": "ASOCIACIÓN CIVIL SUMATORIA PARA UNA NUEVA ECONOMIA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500120882",
+    "razon_social": "Asociación de Cooperativas Argentinas Coop. Ltda.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709087645",
+    "razon_social": "Asociación Mutual 18 de Julio",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30682713700",
+    "razon_social": "Asociación Mutual de las Fuerzas Armadas y de Seguridad",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716842629",
+    "razon_social": "ASOCIACIÓN MUTUAL DE LAS FUERZAS ARMADAS Y SEGURIDAD (AMFAYS) - SERIE 35",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30641298332",
+    "razon_social": "Asociación Mutual de los Socios y Adherentes del Club Libertad Trinidad",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30650125742",
+    "razon_social": "ASOCIACIÓN PARA EL DESARROLLO DE VILLA ELISA Y ZONA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715319299",
+    "razon_social": "Asociación para el Desarrollo de Villa Ocampo (ADVO)",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30684373540",
+    "razon_social": "Asociación para el Desarrollo Regional (APDR) de Ceres",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30692317714",
+    "razon_social": "ASOCIACIÓN PARA EL DESARROLLO REGIONAL (APDR) DE CERES",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30616275905",
+    "razon_social": "ASOCIADOS DON MARIO Sociedad Anonima",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709541036",
+    "razon_social": "Assekuransa Compañía de Seguros S.A .",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500045406",
+    "razon_social": "Assurant Arg Cia de Seguros SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500658912",
+    "razon_social": "Atanor",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715060953",
+    "razon_social": "AVAL AR SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708802979",
+    "razon_social": "Aval Federal SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714824631",
+    "razon_social": "Aval Fértil SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714951617",
+    "razon_social": "Aval Ganadero SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709061824",
+    "razon_social": "Aval Rural  S.G.R.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715434969",
+    "razon_social": "AVALES DEL CENTRO SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30697281106",
+    "razon_social": "AVALUAR SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712241450",
+    "razon_social": "Axis Sociedad Gerente de FCI S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30660515980",
+    "razon_social": "BACS Adm.de Activos SASGFCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707227415",
+    "razon_social": "BACS Banco de Crédito y Securitización S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710630670",
+    "razon_social": "BALANZ CAPITAL VALORES S.A.U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33708123469",
+    "razon_social": "Balanza SGFCISAU",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500003193",
+    "razon_social": "BANCO BBVA ARGENTINA S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30565158402",
+    "razon_social": "BANCO BICA S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712331239",
+    "razon_social": "BANCO BICA SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30576614299",
+    "razon_social": "Banco CMF S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714195960",
+    "razon_social": "BANCO COINAG S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30517637498",
+    "razon_social": "Banco Columbia S,A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30688320670",
+    "razon_social": "Banco Comafi Fiduciario financiero",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30604731018",
+    "razon_social": "Banco Comafi S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712422935",
+    "razon_social": "BANCO COMAFI S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30571421352",
+    "razon_social": "BANCO CREDICOOP COOPERATIVO LIMITADO",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30542033637",
+    "razon_social": "BANCO DE COMERCIO S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500010602",
+    "razon_social": "BANCO DE CORRIENTES S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500001735",
+    "razon_social": "BANCO DE GALICIA Y BUENOS AIRES S.A.U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30651129083",
+    "razon_social": "BANCO DE INVERSIÓN Y COMERCIO EXTERIOR S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999032083",
+    "razon_social": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500010912",
+    "razon_social": "BANCO DE LA NACION ARGENTINA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500012516",
+    "razon_social": "Banco de la Pampa SEM",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33999242109",
+    "razon_social": "Banco de la Provincia de Buenos Aires",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999228565",
+    "razon_social": "Banco de la Provincia de Córdoba S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500009442",
+    "razon_social": "BANCO DE SAN JUAN S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500098801",
+    "razon_social": "BANCO DE SANTA CRUZ S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30697265895",
+    "razon_social": "Banco De Servicios Financieros Sociedad Anónima",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30704960995",
+    "razon_social": "Banco de Servicios y Transacciones S.A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30575655781",
+    "razon_social": "Banco de Tierra del Fuego",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30576124275",
+    "razon_social": "Banco de Valores S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500012990",
+    "razon_social": "BANCO DEL CHUBUT SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30677937560",
+    "razon_social": "BANCO DEL SOL SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500011072",
+    "razon_social": "Banco Hipotecario S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30685029959",
+    "razon_social": "Banco Industrial S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30522714417",
+    "razon_social": "Banco Interfinanzas S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30580189411",
+    "razon_social": "Banco Itaú Argentina S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30657441216",
+    "razon_social": "Banco Julio S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30576095577",
+    "razon_social": "Banco Macro  S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500010084",
+    "razon_social": "Banco Macro SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30516420444",
+    "razon_social": "Banco Mariva S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33999181819",
+    "razon_social": "Banco Municipal de Rosario",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500006613",
+    "razon_social": "Banco Patagonia SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30569151763",
+    "razon_social": "BANCO PIANO SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500014047",
+    "razon_social": "BANCO PROVINCIA DEL NEUQUEN S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30671859339",
+    "razon_social": "Banco Rioja S.A.U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30535610440",
+    "razon_social": "Banco Roela S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30534672434",
+    "razon_social": "BANCO SAENZ S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500008454",
+    "razon_social": "BANCO SANTANDER ARGENTINA S.A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33500005179",
+    "razon_social": "Banco Supervielle S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30546741636",
+    "razon_social": "BANCO VOII S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715957147",
+    "razon_social": "Bancor Fondos S.G.FCI SAU",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717870049",
+    "razon_social": "BAVSA FONDOS SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30548590163",
+    "razon_social": "BBVA ASSET MANAGEMENT ARGENTINA S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500064230",
+    "razon_social": "BBVA Seguros Argentina S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500035788",
+    "razon_social": "Berkley International Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30547174913",
+    "razon_social": "Bertotto Boglione S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30707865411",
+    "razon_social": "BICE FIDEICOMISOS S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30678158506",
+    "razon_social": "Binaria Seguros de Vida",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708609915",
+    "razon_social": "BIND Garantias SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33604295799",
+    "razon_social": "Biofarma S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33693189999",
+    "razon_social": "BNP PARIBAS ASSET MANAGEMENT ARGENTINA S.A.S.G.F.C.I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707202498",
+    "razon_social": "BNP Paribas Asset Management Argentina SASGFCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30584727566",
+    "razon_social": "BNP PARIBAS SUCURSAL BUENOS AIRES",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500179151",
+    "razon_social": "Boldt",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30711025908",
+    "razon_social": "Bond Valores Pymes I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717274764",
+    "razon_social": "BOND VALORES PYMES I FIDEICOMISO FINANCIERO",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715899716",
+    "razon_social": "BRUBANK S.A.U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33715593209",
+    "razon_social": "BULL MARKET ASSET MANAGEMENT S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707032533",
+    "razon_social": "BULL MARKET BROKERS SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30527151453",
+    "razon_social": "C o t a g r o",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30696850972",
+    "razon_social": "C.P.S. Comunicaciones S.A.U.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30663205621",
+    "razon_social": "Caja de Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708768924",
+    "razon_social": "Campo Aval SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30657864281",
+    "razon_social": "Camuzzi Gas Pampeana S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33715827129",
+    "razon_social": "CAPETROL S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30629827060",
+    "razon_social": "Capex S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33572266449",
+    "razon_social": "Carsa S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30655808465",
+    "razon_social": "CARTASUR CARDS S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30518309427",
+    "razon_social": "Caruso Compañía Argentina de Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30501062150",
+    "razon_social": "Celulosa Argentina",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33650305499",
+    "razon_social": "Central Puerto",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33711944899",
+    "razon_social": "Central Termica Roca S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30708389354",
+    "razon_social": "Centro Card S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30613755124",
+    "razon_social": "Cepas Argentinas SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30689001269",
+    "razon_social": "CFA COMPAÑÍA FIDUCIARIA AMERICANA S.A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30641056177",
+    "razon_social": "CFN S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500016260",
+    "razon_social": "Chubb Seguros Argentina S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30663148776",
+    "razon_social": "Cia. de Transporte de Energia Electrica",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30506733932",
+    "razon_social": "Cia. General de Combustibles S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30538029439",
+    "razon_social": "CIMA SOCIEDAD GERENTE DE FONDOS COMUNES DE INVERSIÓN S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33707807739",
+    "razon_social": "CITIBANK N.A. SUCURSAL BUENOS AIRES",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30619458253",
+    "razon_social": "CITRUSVIL S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718397134",
+    "razon_social": "CIUDAD ADMINISTRADORA DE ACTIVOS SAU",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "34999032089",
+    "razon_social": "Ciudad de Buenos Aires",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30707943617",
+    "razon_social": "CLADAN SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30622159216",
+    "razon_social": "Clear Petroleum S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30692239292",
+    "razon_social": "CLISA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30658772364",
+    "razon_social": "Club Atlético Paz, Mutualista y Biblioteca",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30526748448",
+    "razon_social": "Club Atlético River Plate Asociación Civil",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715403435",
+    "razon_social": "CMF Asset Management S.A.U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714322938",
+    "razon_social": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30682408622",
+    "razon_social": "CNP Assurances Compañía de Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715483641",
+    "razon_social": "COCOS ASSET MANAGEMENT S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30558543317",
+    "razon_social": "COHEN S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710410077",
+    "razon_social": "COHEN Sociedad Gerente de Fondos Comunes de Inversión S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712497641",
+    "razon_social": "COLON COMPAÑÍA DE SEGUROS S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30680827520",
+    "razon_social": "Compañía de Seguros Beneficio",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710345364",
+    "razon_social": "Compañía de Seguros Insur SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30527582926",
+    "razon_social": "COMPAÑÍA DE TIERRAS SUD ARGENTINO S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30538006404",
+    "razon_social": "Compañía Financiera Argentina S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30696139888",
+    "razon_social": "COMPAÑÍA MEGA SOCIEDAD ANÓNIMA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30716480387",
+    "razon_social": "Conaval SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712810404",
+    "razon_social": "Confederar NEA SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709422746",
+    "razon_social": "Confiables SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718616359",
+    "razon_social": "CONO SUR SOCIEDAD GERENTE DE FONDOS COMUNES DE INVERSIÓN",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30651863658",
+    "razon_social": "Construir S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715517589",
+    "razon_social": "Consultatio Asset Management",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30677269940",
+    "razon_social": "Consultatio Asset Management G_FCI S.A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30587480359",
+    "razon_social": "Consultatio S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30707804617",
+    "razon_social": "Cooperativa 2001 de Vivienda, Crédito y Consumo Limitada",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717960463",
+    "razon_social": "Cooperativa 2001 Serie IX",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717300323",
+    "razon_social": "Cooperativa 2001 Serie V",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717458806",
+    "razon_social": "Cooperativa 2001 Serie VI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717636224",
+    "razon_social": "Cooperativa 2001 Serie VII",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717783111",
+    "razon_social": "Cooperativa 2001 Serie VIII",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30634713006",
+    "razon_social": "COOPERATIVA DE CRÉDITO Y VIVIENDA UNICRED LIMITADA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30684636142",
+    "razon_social": "COOPERATIVA DE VIVIENDA, CRÉDITO, CONSUMO, SERVICIO ASISTENCIAL Y TURISMO HORIZONTE LTDA.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30637327204",
+    "razon_social": "Cooperativa Horizonte Ltda",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707201882",
+    "razon_social": "Cosena Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716342863",
+    "razon_social": "CP LOS OLIVOS S.A.U.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30716342804",
+    "razon_social": "CP MANQUE S.A.U.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30716256398",
+    "razon_social": "Crear SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30682457682",
+    "razon_social": "CREAURBAN S A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30711015805",
+    "razon_social": "Crecer SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710911580",
+    "razon_social": "Credicuotas Consumo S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712101136",
+    "razon_social": "Credito Directo S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30687874354",
+    "razon_social": "Crédito y Caución S.A. Compañía de Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30509300700",
+    "razon_social": "Cresud SACIF Y A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709346268",
+    "razon_social": "CROWN POINT ENERGIA S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30710911378",
+    "razon_social": "CT BARRAGAN S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30712678506",
+    "razon_social": "CUMAR S.A On Pyme Serie III",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709506281",
+    "razon_social": "Cuyo Aval SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33715382259",
+    "razon_social": "CYC DÓLARES RENTA FIJA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707874259",
+    "razon_social": "DECREDITOS S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33709172919",
+    "razon_social": "DELTA ASSET MANAGEMENT S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712148582",
+    "razon_social": "Digna Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30621181838",
+    "razon_social": "DISAL S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33657865589",
+    "razon_social": "Distribuidora de Gas Cuyana",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30710946333",
+    "razon_social": "Don Isidro SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30708603844",
+    "razon_social": "Don Mario SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30673153670",
+    "razon_social": "DOS RIOS SAAI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30655864799",
+    "razon_social": "Dracma  S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708032944",
+    "razon_social": "DRACMA  S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717358321",
+    "razon_social": "Dracma S.A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708871903",
+    "razon_social": "DRACMA S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30547596826",
+    "razon_social": "Dulcor S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709033553",
+    "razon_social": "EBUCAR S . A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30711336105",
+    "razon_social": "Ecofactory SRL",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30691664828",
+    "razon_social": "Eittor SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30500040455",
+    "razon_social": "El Norte Compañía de Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30699542454",
+    "razon_social": "Emp. Distribuidora de Electricidad de Mendoza S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30690633635",
+    "razon_social": "Empresa Distribuidora de Electricidad de Salta S.A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30693834348",
+    "razon_social": "Empresa Distribuidora de Energia Norte S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30655116202",
+    "razon_social": "Empresa Distribuidora y Comercializadora Norte SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30999027489",
+    "razon_social": "Empresa Provincial de Energía de Córdoba",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30652254248",
+    "razon_social": "ENEL GENERACIÓN COSTANERA S.A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714155128",
+    "razon_social": "ENERGÍAS RENOVABLES LAS LOMAS S.A.U.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30675753365",
+    "razon_social": "ESTREMAR  S. A. U.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30500050620",
+    "razon_social": "Evolución Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718350316",
+    "razon_social": "Evolución SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710090471",
+    "razon_social": "FAE",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30692304884",
+    "razon_social": "FCA COMPAÑÍA FINANCIERA S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715864564",
+    "razon_social": "FCI 1810 AHORRO",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715864513",
+    "razon_social": "FCI 1810 MÁS AHORRO",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33715864539",
+    "razon_social": "FCI 1810 RENTA FIJA ARGENTINA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715864548",
+    "razon_social": "FCI 1810 RENTA VARIABLE ARGENTINA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714629227",
+    "razon_social": "FCI MOMENTUM PYME",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716642794",
+    "razon_social": "FF Inversión Forestal I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33709701369",
+    "razon_social": "FF Natania I (Región Cuyo)",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716044552",
+    "razon_social": "FF PLENA III",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30711337004",
+    "razon_social": "FFIPE TRAMO XI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500055053",
+    "razon_social": "Fianzas y Crédito S.A. Compañía de Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30700336529",
+    "razon_social": "FID AVAL SGR",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33709003459",
+    "razon_social": "FID AVAL SGR",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30517128194",
+    "razon_social": "Fideicomiso de Afectación Específica para Garantizar Pymes Mendocinas (FAE)",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715808753",
+    "razon_social": "Fideicomiso Financiero de Capital Emprendedor CITES I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33718894129",
+    "razon_social": "Fideicomiso Financiero de Capital Emprendedor CITES II",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30700979403",
+    "razon_social": "Fideicomiso Financiero Forestal I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716829096",
+    "razon_social": "FIDEICOMISO FINANCIERO FULL CREDIT I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718287886",
+    "razon_social": "FIDEICOMISO FINANCIERO INDIVIDUAL INMOBILIARIO UDAONDO BUENOS AIRES",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716249731",
+    "razon_social": "Fideicomiso Financiero Inmobiliario Udaondo BA Tramo I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709018392",
+    "razon_social": "Fideicomiso Financiero Links Country de Mar",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716530252",
+    "razon_social": "FIDEICOMISO FINANCIERO PRIVADO INMOBILIARIO DE ADMINISTRACION LUXURY APARMENT",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718204549",
+    "razon_social": "Fideicomiso Financiero Renta Agrícola I – Fondo de Inversión Directa",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30716301199",
+    "razon_social": "FIDEICOMISO INMOBILIARIO NUEVA VILLA DEL PLATA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708296410",
+    "razon_social": "Fideicomiso Sancor Capital",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716459809",
+    "razon_social": "FIDEM SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717862402",
+    "razon_social": "Fiduciaria CFI SAU",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708652977",
+    "razon_social": "Fiduciaria del Norte S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712999701",
+    "razon_social": "Fiduciaria del Norte S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710129173",
+    "razon_social": "FINARES S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33716680989",
+    "razon_social": "Fintech SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30502112259",
+    "razon_social": "Fiplasto S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33678593759",
+    "razon_social": "First Capital Markets",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712239383",
+    "razon_social": "First Capital Markets Sociedad Anonima",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33707119409",
+    "razon_social": "FONDO COMÚN DE INVERSIÓN  ABIERTO 1810 AHORRO",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717946681",
+    "razon_social": "Fondo de Garantía CFI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714983284",
+    "razon_social": "Fondo de Garantía de Entre Ríos SAPEM",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "3371623002p",
+    "razon_social": "FONDO DE GARANTIA PARA EL DESARROLLO FUEGUINO FOGADEF (SAPEM)",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33716230029",
+    "razon_social": "Fondo de Garantía para el Desarrollo Fueguino SAPEM",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "337162330029",
+    "razon_social": "FONDO DE GARANTÍA PARA EL DESARROLLO FUEGUINO SAPEM",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714395668",
+    "razon_social": "Fondo de Garantía Público de La Rioja",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708187565",
+    "razon_social": "FONDO DE GARANTIAS ARGENTINO - FOGAR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30684577073",
+    "razon_social": "Fondo de Garantías Buenos Aires SAPEM",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718244095",
+    "razon_social": "Fondo de Garantías de Catamarca",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717902471",
+    "razon_social": "Fondo de Garantías de Jujuy",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714160350",
+    "razon_social": "Fondo de Garantías del Chaco (FOGACH)",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717090930",
+    "razon_social": "FONDO DE GARANTÍAS PAMPEANAS FOGAPAM (SAPEM)",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718715020",
+    "razon_social": "Fondo de Garantías para el Desarrollo de las Micro, Pequeñas y Medianas Empresas de la Provincia de Misiones",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718891511",
+    "razon_social": "Fondo de Garantías Río Negro (FOGARIO)  Fideicomiso Público",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33709146519",
+    "razon_social": "Fondo Específico de Riesgo Fiduciario Provincia de Santa Fe",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709760536",
+    "razon_social": "Fondo Fiduciario Fuerza Solidaria",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30684521841",
+    "razon_social": "FOX PETROL SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30622977652",
+    "razon_social": "Franklin Santiago Boglich SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30691084759",
+    "razon_social": "FUHRMANN  S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30717569713",
+    "razon_social": "Fullcredit I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30605118921",
+    "razon_social": "Fundación Banco de la Provincia de Córdoba",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708847549",
+    "razon_social": "Fundación Desafíos",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708572663",
+    "razon_social": "Fundación Nuevos Surcos",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30671579433",
+    "razon_social": "Fundación para el Desarrollo Regional",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709457485",
+    "razon_social": "Fundación Pro Mujer",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709457 48 5",
+    "razon_social": "FUNDACIÓN PRO MUJER",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33505333549",
+    "razon_social": "FUNDICION SAN CAYETANO S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30622143174",
+    "razon_social": "Fundición San Cayetano S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30703605105",
+    "razon_social": "FUTUROS Y OPCIONES.COM S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30685228501",
+    "razon_social": "Galeno ART",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714395196",
+    "razon_social": "Galeno Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30517342064",
+    "razon_social": "GALICIA ASSET MANAGEMENT S.A.U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30694367255",
+    "razon_social": "GALILEO ARGENTINA SOCIEDAD GERENTE DE FONDOS COMUNES DE INVERSION S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707690425",
+    "razon_social": "Ganadera La Paz Sociedad Anónima",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715652079",
+    "razon_social": "Garantia San Juan SASPEM",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30688331761",
+    "razon_social": "Garantizar SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30540088213",
+    "razon_social": "GARBARINO S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33715184139",
+    "razon_social": "GENERACION LITORAL S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30682434720",
+    "razon_social": "Generacion Mediterranea S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30665234114",
+    "razon_social": "GENNEIA S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30581320589",
+    "razon_social": "GENTE DE LA PAMPA S A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30642555274",
+    "razon_social": "GeoPark Argentina SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30714838810",
+    "razon_social": "Gestión Compañía Argentina de Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30672846303",
+    "razon_social": "GOBIERNO DE LA PROVINCIA DE RIO NEGRO",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30678564822",
+    "razon_social": "GPAT COMPAÑÍA FINANCIERA S.A.U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707401008",
+    "razon_social": "GRANJA SRL",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500781293",
+    "razon_social": "Grimoldi S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30663498513",
+    "razon_social": "Grupo Concesionario del Oeste S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30704962807",
+    "razon_social": "Grupo Financiero Galicia S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709332445",
+    "razon_social": "Grupo Núcleo SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30708633417",
+    "razon_social": "Grupo ST S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500057587",
+    "razon_social": "Hamburgo Compañía de Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710233744",
+    "razon_social": "Hanseatica Compañía de Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708544082",
+    "razon_social": "HAVANNA HOLDING S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33697235049",
+    "razon_social": "HAVANNA S A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30500017011",
+    "razon_social": "HDI Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708587415",
+    "razon_social": "HECTOR A. BERTONE S.A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30659151185",
+    "razon_social": "HIJOS DE SALVADOR MUÑOZ S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30501111127",
+    "razon_social": "Holcim (Argentina) S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33537186009",
+    "razon_social": "HSBC Bank Argentina S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30584086722",
+    "razon_social": "HSBC GLOBAL ASSET MANAGEMENT ARGENTINA S.A. SOCIEDAD GERENTE DE FONDOS COMUNES DE INVERSIÓN",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30585058781",
+    "razon_social": "ICBC Investments Arg SASGFCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33715646469",
+    "razon_social": "IEB S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715646469",
+    "razon_social": "IEB S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33707697879",
+    "razon_social": "Ilumina Soluciones Financieras S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30701648397",
+    "razon_social": "Inclusión Financiera Integral SRL",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30718592425",
+    "razon_social": "Inclusión Financiera Integral SRL",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709447846",
+    "razon_social": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30619740854",
+    "razon_social": "INDUSTRIAL ASSET MANAGEMENT SOCIEDAD GERENTE DE FONDOS COMUNES DE INVERSIÓN S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708587695",
+    "razon_social": "Infader",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716574314",
+    "razon_social": "INNOVA SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30630063481",
+    "razon_social": "Instituto Autárquico Provincial del Seguro",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715046012",
+    "razon_social": "Integra PyMEs",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30704961983",
+    "razon_social": "Integrity Seguros Argentina S.a.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33716154969",
+    "razon_social": "Interavales SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707560270",
+    "razon_social": "Intergarantías SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717032760",
+    "razon_social": "INTERPORK S A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30585581247",
+    "razon_social": "INVAP S.E. (Investigación Aplicada Sociedad del Estado)",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715720821",
+    "razon_social": "Invernea Ganadero",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717335356",
+    "razon_social": "Invernea Proteina PyME Serie I",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717693112",
+    "razon_social": "Invernea Proteina PyME Serie II",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718177479",
+    "razon_social": "Invernea Proteina PyME Serie III",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718488636",
+    "razon_social": "Invernea Proteina PyME Serie IV",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716839555",
+    "razon_social": "INVERNEA S.R.L.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30693160789",
+    "razon_social": "Inversora Electrica de Buenos Aires S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30640285431",
+    "razon_social": "Inversora Juramento S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30710179219",
+    "razon_social": "Investis Asset Management SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30697265410",
+    "razon_social": "INVESTIS ASSET MANAGEMENT SOCIEDAD ANÓNIMA SOCIEDAD GERENTE DE FONDOS COMUNES DE INVERSIÓN",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30525322749",
+    "razon_social": "IRSA Inversiones y Representaciones S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30527677331",
+    "razon_social": "IRSA Propiedades Comerciales S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30663367907",
+    "razon_social": "Itau Asset Managment SASGFCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30701810852",
+    "razon_social": "IUDU COMPAÑÍA FINANCIERA S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707024859",
+    "razon_social": "John Deere Credit Compañía Financiera S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715399128",
+    "razon_social": "LUZ DE TRES PICOS S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30656497544",
+    "razon_social": "Macro Fondos Sociedad Gerente de Fondos Comunes de Inversión S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33700893729",
+    "razon_social": "Mapfre Argentina Seguros de Vida S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500007539",
+    "razon_social": "Mapfre Argentina Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30711653135",
+    "razon_social": "Mariva Asset Management S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33709231559",
+    "razon_social": "MARONTI S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30547242331",
+    "razon_social": "Mastellone Hermanos S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30525698412",
+    "razon_social": "MATBA ROFEX SOCIEDAD ANÓNIMA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30717118134",
+    "razon_social": "Max Capital  A.M",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33709965579",
+    "razon_social": "Mega QM SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716466635",
+    "razon_social": "MEGAINVER ESTRATEGIA AGRO I FONDO COMUN DE INVERSION CERRADO",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712126457",
+    "razon_social": "Megainver S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709503789",
+    "razon_social": "Mendoza Fiduciaria S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500645772",
+    "razon_social": "Meranol S.A.C.I.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30529177875",
+    "razon_social": "Mercado Argentino de Valores S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33718628569",
+    "razon_social": "MERCADO PAGO ASSET MANAGEMENT SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716999498",
+    "razon_social": "MERCADO PAGO SERVICIOS DE PROCESAMIENTO S.R.L",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30703088534",
+    "razon_social": "MERCADOLIBRE S.R.L.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30707002294",
+    "razon_social": "Mercedes-Benz Compañía Financiera Argentina S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30646167775",
+    "razon_social": "Metalfor S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30657863676",
+    "razon_social": "Metrogas S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30663501212",
+    "razon_social": "Metrovias S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30622317784",
+    "razon_social": "Milicic S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30716604612",
+    "razon_social": "Mills SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30677262466",
+    "razon_social": "MINAS ARGENTINAS S. A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30707924892",
+    "razon_social": "Minera Don Nicolás SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709667587",
+    "razon_social": "MINERA EXAR SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30578036071",
+    "razon_social": "Mirgor",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715118773",
+    "razon_social": "Molinos Agro S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30500858628",
+    "razon_social": "MOLINOS RÍO DE LA PLATA S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30525346389",
+    "razon_social": "Morixe Hnos S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33716492279",
+    "razon_social": "Móvil SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714378402",
+    "razon_social": "MSU ENERGY S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30607597193",
+    "razon_social": "MSU S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30999065593",
+    "razon_social": "Municipalidad de Comodoro Rivadavia",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999074843",
+    "razon_social": "Municipalidad de Córdoba",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33999034069",
+    "razon_social": "Municipalidad de Escobar",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999146917",
+    "razon_social": "Municipalidad de Godoy Cruz",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30624944182",
+    "razon_social": "Municipalidad de La Plata",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999087600",
+    "razon_social": "Municipalidad de Luján de Cuyo",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999070880",
+    "razon_social": "Municipalidad de Mendoza",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999050685",
+    "razon_social": "Municipalidad de Río Cuarto",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999003156",
+    "razon_social": "Municipalidad de Rosario",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712240993",
+    "razon_social": "Nación Reaseguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30678582669",
+    "razon_social": "Nación Seguros de Retiro S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30678561165",
+    "razon_social": "Nación Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716639645",
+    "razon_social": "Naranja Digital Compañía Financiera SAU",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500051856",
+    "razon_social": "NATIVA COMPAÑÍA ARGENTINA DE SEGUROS",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712208925",
+    "razon_social": "NATIVA SOCIEDAD GERENTE DE FONDOS COMUNES DE INVERSION S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30657864117",
+    "razon_social": "NATURGY BAN S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30716490587",
+    "razon_social": "Neuquen Pymes SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30642617555",
+    "razon_social": "NEWSAN S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30716485419",
+    "razon_social": "Novus Asset Managment S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33680059999",
+    "razon_social": "Nucleoeléctrica Argentina S.A. (NASA)",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33710072499",
+    "razon_social": "Nuestras Huellas Asociación Civil",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33707995519",
+    "razon_social": "NUEVO BANCO DE ENTRE RIOS S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30692432661",
+    "razon_social": "Nuevo Banco de Santa Fe S. A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30670157799",
+    "razon_social": "NUEVO BANCO DEL CHACO S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30712205713",
+    "razon_social": "Nuevo Chaco Fondos S.A. Sociedad Gerente de Fondos Comunes de Inversion",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30658839523",
+    "razon_social": "OILTANKING EBYTEM SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33711316839",
+    "razon_social": "OILTANKING EBYTEM SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30658840165",
+    "razon_social": "OLEODUCTOS DEL VALLE SOCIEDAD ANONIMA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30710654464",
+    "razon_social": "Oportunidad Microfinanciera Latinoamericana Sociedad Anónima (OMLA SA)",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715141716",
+    "razon_social": "Pacífico Compañía de Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30526552659",
+    "razon_social": "Pampa Energía S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30695542476",
+    "razon_social": "Pan American Energy",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30718398416",
+    "razon_social": "PARAKEET SOCIEDAD GERENTE DE FONDOS COMUNES DE INVERSIÓN SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500057102",
+    "razon_social": "Parana Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33718082639",
+    "razon_social": "Patagonia  S.G.R",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30608298815",
+    "razon_social": "Patagonia Inversora S.A.G.F.C.I.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715167324",
+    "razon_social": "Patagonia Inversora SA SGFCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30504077079",
+    "razon_social": "Pecom Energia S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30654424698",
+    "razon_social": "PECOM SERVICIOS ENERGIA S.A.U.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30651084241",
+    "razon_social": "PEDROLGA S.R.L",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709201219",
+    "razon_social": "PELAYO AGRONOMIA S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30678806230",
+    "razon_social": "PELLEGRINI S.A. GERENTE DE FONDOS COMUNES DE INVERSION",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717192962",
+    "razon_social": "Pellegrini S.A.S.G.F.C.I.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30630720911",
+    "razon_social": "PETROAGRO S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33652607689",
+    "razon_social": "PETROLEOS SUDAMERICANOS SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30717149455",
+    "razon_social": "Petrolera Aconcagua Energía S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30714814229",
+    "razon_social": "PETROLERA ACONCAGUA ENERGIA SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30631926491",
+    "razon_social": "PETROPACK S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30563598111",
+    "razon_social": "Petroquímica Comodoro Rivadavia S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30714407275",
+    "razon_social": "Pilay I Fideicomiso Financiero",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715349511",
+    "razon_social": "Pilay II Fideicomiso Financiero",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30566040588",
+    "razon_social": "PLASTIANDINO S.A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30655942382",
+    "razon_social": "Plaza Logística S.R.L.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30678224010",
+    "razon_social": "PLUSPETROL SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30714936901",
+    "razon_social": "Potenciar SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716529793",
+    "razon_social": "Premiar Compañía Argentina de Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30711913439",
+    "razon_social": "PRESIDENT PETROLEUM S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30684361917",
+    "razon_social": "Prevención ART SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30701946657",
+    "razon_social": "Proahorro Administradora de Activos S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33547788589",
+    "razon_social": "PRODISMO SRL",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30691576511",
+    "razon_social": "PROFERTIL S A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33711759439",
+    "razon_social": "Programa Federal Plurianual de Construcción de Viviendas de la Provincia de Mendoza",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30619780635",
+    "razon_social": "Promedón S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33690798439",
+    "razon_social": "Promotora Fiduciaria S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708741775",
+    "razon_social": "Promover S.G.R.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30650208389",
+    "razon_social": "Provincia de Buenos Aires",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30624944255",
+    "razon_social": "Provincia de Buenos Aires",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30636511354",
+    "razon_social": "Provincia de Catamarca",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708187123",
+    "razon_social": "Provincia de Córdoba",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30639027453",
+    "razon_social": "Provincia de Corrientes",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709695696",
+    "razon_social": "Provincia de Corrientes",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707085726",
+    "razon_social": "Provincia de Corrientes",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999216931",
+    "razon_social": "Provincia de Entre Ríos",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30671342875",
+    "razon_social": "Provincia de Formosa",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999215323",
+    "razon_social": "Provincia de Formosa",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30671853535",
+    "razon_social": "Provincia de la Rioja",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999259169",
+    "razon_social": "Provincia de Mendoza",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30689235545",
+    "razon_social": "Provincia de Mendoza",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30672333594",
+    "razon_social": "Provincia de Misiones",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30672387120",
+    "razon_social": "Provincia de Misiones",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709933287",
+    "razon_social": "Provincia de Salta",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999256887",
+    "razon_social": "Provincia de Salta",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709933587",
+    "razon_social": "Provincia de Salta",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999015162",
+    "razon_social": "Provincia de San Juan",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30673639603",
+    "razon_social": "Provincia de Santa Cruz",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999007356",
+    "razon_social": "Provincia de Santa Fe",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30674619851",
+    "razon_social": "Provincia de Santa Fe",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30546662434",
+    "razon_social": "Provincia de Tierra del Fuego",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30675428081",
+    "razon_social": "Provincia de Tucumán",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999176832",
+    "razon_social": "Provincia del Chaco",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710321872",
+    "razon_social": "Provincia del Chaco",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33999176769",
+    "razon_social": "Provincia del Chaco",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33999176459",
+    "razon_social": "Provincia del Chaco",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710830734",
+    "razon_social": "Provincia del Chaco",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30670494604",
+    "razon_social": "Provincia del Chubut",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999222907",
+    "razon_social": "Provincia del Chubut",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30999068940",
+    "razon_social": "Provincia del Neuquén",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30704966799",
+    "razon_social": "Provincia Fideicomisos SAU",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30688310330",
+    "razon_social": "Provincia Leasing",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30527508165",
+    "razon_social": "Provincia Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30678774703",
+    "razon_social": "PROVINFONDOS S.A. SGFCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30707847367",
+    "razon_social": "PSA Finance Argentina Compañía Financiera S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30701027074",
+    "razon_social": "PUENTE HNOS. S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715039962",
+    "razon_social": "Pyme Aval SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "307155561324",
+    "razon_social": "QUINQUELA MAS PREDIAL FCI CERRADO INMOBILIARIO LEY 27260",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715561324",
+    "razon_social": "Quinquela Mas Predial FCICI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710431309",
+    "razon_social": "QUIRON ASSET MANAGEMENT S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30620880600",
+    "razon_social": "Raghsa S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30707108343",
+    "razon_social": "RCI Banque – Sucursal Argentina",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712257357",
+    "razon_social": "RDA Renting S.A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30712311882",
+    "razon_social": "Reaseguradores Argentinos S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30589527115",
+    "razon_social": "RED SURCOS S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30712156909",
+    "razon_social": "REFI PAMPA S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30716219859",
+    "razon_social": "Resiliencia S.G.R.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30698318895",
+    "razon_social": "Ricardo Venturino SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716321149",
+    "razon_social": "Rig Avales SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500061711",
+    "razon_social": "Río Uruguay Cooperativa de Seguros Ltda",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30593174057",
+    "razon_social": "Rizobacter Argentina S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30638375628",
+    "razon_social": "ROCH S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30554668115",
+    "razon_social": "Rogiro Aceros S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33707124909",
+    "razon_social": "Rombo Compañía Financiera S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33693710559",
+    "razon_social": "Rosario Administradora Sociedad Fiduciaria S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30615224827",
+    "razon_social": "Rovella Carranza SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30506730038",
+    "razon_social": "S.A. Importadora y Exp. de La Patagonia",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30573819256",
+    "razon_social": "S.A. Importadora y Exportadora de la Patagonia",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30511190238",
+    "razon_social": "S.A. San Miguel A.G.I.C.I. y F.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "34500045339",
+    "razon_social": "San Cristóbal Sociedad Mutual de Seguros Generales",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30661912614",
+    "razon_social": "San Patricio Seguros",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30501677643",
+    "razon_social": "Sancor Coop. Unidas Ltda.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500049460",
+    "razon_social": "Sancor Cooperativa de Seguros Ltda.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30661873678",
+    "razon_social": "SANTANDER RIO ASSET MANAGEMENT GTE FCI S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33550300899",
+    "razon_social": "Santiago Sáenz S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30669159885",
+    "razon_social": "Savant Pharm S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30710222858",
+    "razon_social": "SBS Asset Management S.A. SG FCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716626292",
+    "razon_social": "SBS Asset Management SASGFCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30717023990",
+    "razon_social": "SCANIA CREDIT ARGENTINA S. A. U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30517424303",
+    "razon_social": "Scania Credit Argentina SAU",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30661961437",
+    "razon_social": "SCHRODER INVESTMENT MANAGEMENT S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30616836869",
+    "razon_social": "Schroder S.A. Sociedad Gerente de Fondos Comunes de Inversión",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500057277",
+    "razon_social": "Segurcoop Cooperativa de Seguros Ltda.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30718315731",
+    "razon_social": "Seguro Aval S.G.R.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500050310",
+    "razon_social": "SEGUROS BERNARDINO RIVADAVIA COOPERATIVA LTDA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500000127",
+    "razon_social": "Seguros Sura S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30711075875",
+    "razon_social": "SICOM S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "34615368298",
+    "razon_social": "SIDERSA S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30615368292",
+    "razon_social": "SIDERSA SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30690076043",
+    "razon_social": "SION S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30717574407",
+    "razon_social": "SION S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30500031960",
+    "razon_social": "SMG Compañía Argentina de Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30700964805",
+    "razon_social": "SMG Life Compañía de Seguros de Retiro S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30685843400",
+    "razon_social": "SMG Life Seguros de Vida S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708333189",
+    "razon_social": "SMSV COMPAÑÍA ARGENTINA DE SEGUROS S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33708194919",
+    "razon_social": "Solidum SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709340049",
+    "razon_social": "Southern Trust SGFCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33710608909",
+    "razon_social": "Southern Trust SGFCISA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30505000869",
+    "razon_social": "Soychu SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715999141",
+    "razon_social": "Spazios Inmuebles SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30600615889",
+    "razon_social": "SPECIAL GRAINS S A",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30707633197",
+    "razon_social": "SpeedAgro",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30715207962",
+    "razon_social": "SPI ENERGY SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33712318029",
+    "razon_social": "Sprint Final SRL",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30693764943",
+    "razon_social": "STONEX ASSET MANAGEMENT S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500005625",
+    "razon_social": "Sucursal de Citibank N.A. República Argentina",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30576721710",
+    "razon_social": "Sullair Argentina S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30689032245",
+    "razon_social": "SUPERVIELLE ASSET MANAGEMENT S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30685376349",
+    "razon_social": "Tarjeta Naranja S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30681424721",
+    "razon_social": "Tarjetas del Mar S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30629717958",
+    "razon_social": "TASSAROLI S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30700960222",
+    "razon_social": "TAVELLI Y CIA S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30619257487",
+    "razon_social": "TECNOMYL SA",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30708430001",
+    "razon_social": "TECNOVAX S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30592665472",
+    "razon_social": "TECPETROL S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30639453738",
+    "razon_social": "Telecom Argentina S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30519527703",
+    "razon_social": "Termoeléctrica S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30686244330",
+    "razon_social": "TESTIMONIO COMPAÑÍA DE SEGUROS S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709282537",
+    "razon_social": "TGLT S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30708329122",
+    "razon_social": "TMF Trust Company (Argentina) S.A. (ex-Equity)",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30709000426",
+    "razon_social": "Toyota Compañía Financiera de Argentina S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30637695335",
+    "razon_social": "Transclor S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30657863056",
+    "razon_social": "Transportadora de Gas del Norte S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30657862068",
+    "razon_social": "Transportadora de Gas del Sur S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716644622",
+    "razon_social": "Trend SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30500065776",
+    "razon_social": "Triunfo Coop de Seguros Ltda",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30711442754",
+    "razon_social": "Tutelar Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30711772754",
+    "razon_social": "Tutelar Seguros S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715654632",
+    "razon_social": "UALA BANK S. A. U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30716658984",
+    "razon_social": "Ualintec Inversiones SAU SGFCI",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30710772866",
+    "razon_social": "Udaondo",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30708357363",
+    "razon_social": "UN TECHO PARA ARGENTINA ASOCIACIÓN CIVIL",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30501912405",
+    "razon_social": "Unión Agrícola Avellaneda",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "33715214569",
+    "razon_social": "UNION S.G.R.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715914537",
+    "razon_social": "VALIANT ASSET MANAGEMENT SOCIEDAD GERENTE DE FONDOS COMUNES DE INVERSIÓN S.A.U.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30505012182",
+    "razon_social": "Vial Agro S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30708602791",
+    "razon_social": "Vínculos S.G.R.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30715511815",
+    "razon_social": "VÍNCULOS SGR",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30709318329",
+    "razon_social": "VIÑAS LAS PERDICES S.A Y JUAN MUÑOZ S.A MANCOMUNADAS",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33515950899",
+    "razon_social": "VISTA OIL & GAS ARGENTINA S.A.U",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30713322705",
+    "razon_social": "VITALCAN S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30682419578",
+    "razon_social": "Volkswagen Financial Services Compañía Financiera S.A.",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33718237349",
+    "razon_social": "WISE CAPITAL ASSET MANAGEMENT SA",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30712162488",
+    "razon_social": "WORANZ COMPAÑÍA DE SEGUROS",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "30714128309",
+    "razon_social": "YPF ENERGÍA ELÉCTRICA S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30546689979",
+    "razon_social": "YPF S.A.",
+    "tiene_empresas": true
+  },
+  {
+    "cuit": "30546826321",
+    "razon_social": "ZOFINGEN INVESTMENT S.A",
+    "tiene_empresas": false
+  },
+  {
+    "cuit": "33712110959",
+    "razon_social": "Zuamar SA.",
+    "tiene_empresas": true
+  }
+]

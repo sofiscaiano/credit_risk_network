@@ -1,0 +1,42 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ratings-afip"
+version = "0.1.0"
+description = "Consulta de actividades económicas de CUITs vía AFIP SDK (Padrón A5)"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+    "afip.py>=1.2.0",
+    "python-dotenv>=1.0.0",
+    "typer[all]>=0.15.0",
+    "rich>=13.9.0",
+    "pandas>=2.0.0",
+    "pydantic>=2.0.0",
+    "matplotlib>=3.10.9",
+    "seaborn>=0.13.2",
+    "ipykernel>=7.2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "ruff>=0.8.0",
+]
+
+[project.scripts]
+ratings-afip = "ratings_afip.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ratings_afip"]
+
+[tool.ruff]
+line-length = 120
+select = ["E", "F", "W", "I", "N", "UP", "B", "C4", "SIM"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
