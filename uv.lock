@@ -224,6 +224,22 @@ wheels = [
 ]
 
 [[package]]
+name = "infomap"
+version = "2.12.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/69/f6/bc213265e734929aac52694168c2e8e9612d42ffda45bc32b5fa4a7a4a10/infomap-2.12.0.tar.gz", hash = "sha256:fc3da6567d054a9daa2f047115c023f8e15853529a286a349da0ee3b13644e76", size = 500562, upload-time = "2026-06-08T11:53:25.613Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/98/87/eedfe4b42b515b98c4bd8aad6dfa8aa596b86ac0785137b0dcdeecfa178d/infomap-2.12.0-cp313-cp313-macosx_15_0_arm64.whl", hash = "sha256:19ec71b871857cdffff324ce479ceaf613cd5c7ff3a6279ab20075d60a18c0b3", size = 1131583, upload-time = "2026-06-08T11:53:11.569Z" },
+    { url = "https://files.pythonhosted.org/packages/48/33/72853c3d58608f63fd1f589cae1a0fa24f55d3aa26183690a42d67eb3b3a/infomap-2.12.0-cp313-cp313-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:a9fcd8e54886e82b87889fd0766b457ac41a683a752cd7d18fdea8fffa3da373", size = 14722843, upload-time = "2026-06-08T11:53:13.307Z" },
+    { url = "https://files.pythonhosted.org/packages/29/3b/0edfb232ad9011863c027f81ca4cb0ff886fede8c919b538c6dabe645600/infomap-2.12.0-cp313-cp313-win32.whl", hash = "sha256:a8386f31f9416c46242493d241c7a6c21624402f51ce4cf407cf3881f20df9bc", size = 646411, upload-time = "2026-06-08T11:53:15.3Z" },
+    { url = "https://files.pythonhosted.org/packages/1a/66/5da5dd2f4c608023ea97c41306200d21c7cba3e29b64f3dd9b38afb42c7f/infomap-2.12.0-cp313-cp313-win_amd64.whl", hash = "sha256:2806282a92950b504fbd0c52f432352ecc1e17fba097757263e00e3ee83ec687", size = 764145, upload-time = "2026-06-08T11:53:16.631Z" },
+    { url = "https://files.pythonhosted.org/packages/1e/46/fe800760a4ec2b3b214c8bcd02562d0426d6a7c80d80cc39c370d9d5c04f/infomap-2.12.0-cp314-cp314-macosx_15_0_arm64.whl", hash = "sha256:a02ed2f7b07937ed560d48cebc2ff6880b8dfe154e07bdacf469e509aa056b33", size = 1131689, upload-time = "2026-06-08T11:53:18.313Z" },
+    { url = "https://files.pythonhosted.org/packages/60/d1/ef42cbf328ef5c4ea4ca3bbc1bc2042b84f8b58cff2b1acc8cf104ef0adc/infomap-2.12.0-cp314-cp314-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:996a9e3a22535ca69b96827b046e05f8ea817cd86dafde427db7ff44f86d6fe4", size = 14711012, upload-time = "2026-06-08T11:53:19.934Z" },
+    { url = "https://files.pythonhosted.org/packages/9a/2b/6c9c1cffda61b410d7420db5a7cffaf4281d70faae8c15d55536a6299e52/infomap-2.12.0-cp314-cp314-win32.whl", hash = "sha256:8a3e8a902f5a4a5e1023ab4b794ceda5c775dd9a5bcf92020c2fe6878ad49304", size = 658441, upload-time = "2026-06-08T11:53:22.663Z" },
+    { url = "https://files.pythonhosted.org/packages/19/7e/947fb203afda67bb0d6af5695646f616250db9387782ca42324feebf3a2d/infomap-2.12.0-cp314-cp314-win_amd64.whl", hash = "sha256:e9c76d0debf43561e21af442321ad2a2ae74d0ea602a28045e7eaa682234decd", size = 785087, upload-time = "2026-06-08T11:53:24.307Z" },
+]
+
+[[package]]
 name = "ipykernel"
 version = "7.2.0"
 source = { registry = "https://pypi.org/simple" }
@@ -735,6 +751,7 @@ name = "project"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "infomap" },
     { name = "ipykernel" },
     { name = "matplotlib" },
     { name = "networkx" },
@@ -746,6 +763,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "infomap", specifier = ">=2.12.0" },
     { name = "ipykernel", specifier = ">=7.2.0" },
     { name = "matplotlib", specifier = ">=3.10.9" },
     { name = "networkx", specifier = ">=3.6.1" },
